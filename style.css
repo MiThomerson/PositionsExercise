@@ -100,6 +100,28 @@ section {
 
 /* 5 */
 
+#reality {
+    position: absolute;
+    bottom: 150px;
+    right: 0;
+   
+}
+
+/* 6 */
+#mind {
+    position: fixed;
+    right: 0;
+}
+
+/* 7 */
+#time {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+/* 8 */
+
 h1 {
     position: sticky;
     top: 1px;
@@ -114,25 +136,3 @@ h2 {
 
 
 
-
-
-
-#reality {
-    position: absolute;
-    bottom: 150px;
-    right: 1px;
-    z-index: 3;
-}
-
-#mind {
-    position: fixed;
-    bottom: 300px;
-    right: 1px;
-}
-
-#time {
-    position: fixed;
-    top: 1px;
-    right: 1px;
-    z-index: 2;
-}
