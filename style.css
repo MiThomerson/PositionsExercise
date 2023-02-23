@@ -75,14 +75,6 @@ body {
     
     /* START BELOW THIS LINE */
 
-    /* position: static;    
-    position: relative; 
-    position: relative;
-    position: absolute;
-    position: sticky;
-    position: fixed;
-    z-index: 1; */
-
     h1{
         position: sticky;
         top: 1px;
